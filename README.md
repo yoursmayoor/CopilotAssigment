@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Step 1: Clone the Repository
+# Step 1: Clone the Repository
 
 git clone 'git@github.com:yoursmayoor/CopilotAssigment.git'
 cd article-display
@@ -8,15 +8,15 @@ cd article-display
 
 Step 2: Install Dependencies
 yarn install
-# OR
+OR
 npm install
 
-Step 3: Start the JSON Server
+# Step 3: Start the JSON Server
 json-server --watch data/db.json --port 3000
 ⚠️ Important: The server must run on port 3000 for the application to work correctly.
 
 
-Step 4: Run the React Application
+# Step 4: Run the React Application
 yarn start
-# OR
+OR
 npm run start
