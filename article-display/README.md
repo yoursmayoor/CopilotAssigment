@@ -4,6 +4,8 @@
 
 git clone 'git@github.com:yoursmayoor/CopilotAssigment.git'
 
+cd CopilotAssigment
+
 cd article-display
 
 
