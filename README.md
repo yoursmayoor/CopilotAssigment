@@ -9,7 +9,9 @@ cd article-display
 
 # Step 2: Install Dependencies
 yarn install
+
 OR
+
 npm install
 
 # Step 3: Start the JSON Server
@@ -22,5 +24,7 @@ json-server --watch data/db.json --port 3000
 # Step 4: Run the React Application
 
 yarn start
+
 OR
+
 npm run start
