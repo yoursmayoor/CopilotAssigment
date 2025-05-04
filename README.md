@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
 Step 1: Clone the Repository
-git clone '<your-repo-url-here>'
-cd <your-project-directory>
+git clone 'git@github.com:yoursmayoor/CopilotAssigment.git'
+cd article-display
 
 
 Step 2: Install Dependencies
